@@ -33,8 +33,6 @@ def fib(n):
     n = n - 1
   
   return i
-
-# Test the function with the following value.
 fullname = "Sachan"
 firstname = fullname[0]
 print(firstname)
