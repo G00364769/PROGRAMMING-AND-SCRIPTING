@@ -1,6 +1,6 @@
 
 # Adarsha sachan
-# Fibonacci numbers.
+# Calculate Fibonacci numbers.
 
 def fib(n):
   """This function returns the nth Fibonacci number."""
@@ -20,7 +20,7 @@ ans = fib(x)
 print("Fibonacci number", x, "is", ans)
 
 
-# exercise 2
+# exercise 2 own surname Calculate Fibonacci numbers.
 # Adarsha sachan
 def fib(n):
   """This function returns the nth Fibonacci number."""
@@ -35,10 +35,10 @@ def fib(n):
   return i
 fullname = "Sachan"
 firstname = fullname[0]
-print(firstname)
+print("My First letter",firstname)
 
 lastname= fullname[-1]
-print(lastname)
+print("My Last letter",lastname)
 
 first=ord(firstname)
 print("my firstorder is ",first)

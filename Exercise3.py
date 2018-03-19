@@ -1,5 +1,6 @@
 
 #adarsha sachan
+#Collatz conjecture
 i=int(input("Please enter the value"))
 while i!=1:
   #print(i)
