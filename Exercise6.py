@@ -1,5 +1,5 @@
 #adarsha sachan
-#factorial function
+#Exercise 6 factorial function
 
 def facrorial(x):
   i=1
