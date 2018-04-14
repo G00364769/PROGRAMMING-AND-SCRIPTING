@@ -8,8 +8,7 @@ with open("Data/irish.csv") as f:
         print(j)
 
 
-# one more way csv file to read file h
-
+# one more way csv file to read file second method
 with open ("Data/irish.csv")as f:
     test= csv.reader(f)
     read=f.read()
