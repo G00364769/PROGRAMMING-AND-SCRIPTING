@@ -6,8 +6,6 @@ with open("Data/irish.csv") as f:
         j=line.format()
         j=j[:3]+"0"+ "  " + j[4:7]+"0" + "  " + j[8:11]+"0" + "  " + j[12:15]+"0"
         print(j)
-
-
 # one more way csv file to read file second method way
 with open ("Data/irish.csv")as f:
     test= csv.reader(f)
