@@ -11,4 +11,4 @@ with open("Data/irish.csv") as f:
 with open ("Data/irish.csv")as f:
     test= csv.reader(f)
     read=f.read()
-    print(read)
+    #print(read)
